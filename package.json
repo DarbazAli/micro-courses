@@ -1,0 +1,30 @@
+{
+  "name": "micro-courses",
+  "version": "1.0.0",
+  "description": "An online learning platform with an Event-Driven Microservice Architecture",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarbazAli/micro-courses.git"
+  },
+  "keywords": [
+    "Microservices",
+    "Event-Driven",
+    "Architecture",
+    "Express",
+    "Node"
+  ],
+  "author": "Darbaz Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarbazAli/micro-courses/issues"
+  },
+  "homepage": "https://github.com/DarbazAli/micro-courses#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
