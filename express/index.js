@@ -17,4 +17,4 @@ const createExpressApp = ({ config, env }) => {
     return app
 }
 
-export default app
+export default createExpressApp
